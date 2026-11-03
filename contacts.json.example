@@ -1,0 +1,308 @@
+{
+  "agms": {
+    "AGM_01": { "name": "AGM 01", "phone": "9000000001" },
+    "AGM_02": { "name": "AGM 02", "phone": "9000000002" },
+    "AGM_03": { "name": "AGM 03", "phone": "9000000003" },
+    "AGM_04": { "name": "AGM 04", "phone": "9000000004" },
+    "AGM_05": { "name": "AGM 05", "phone": "9000000005" },
+    "AGM_06": { "name": "AGM 06", "phone": "9000000006" }
+  },
+  "branches": {
+    "Branch 01": {
+      "agm_id": "AGM_01",
+      "contacts": [
+        { "role": "BM", "name": "Branch 01 BM (Sample)", "phone": "9000000007" },
+        { "role": "CRM", "name": "Branch 01 CRM (Sample)", "phone": "9000000008" },
+        { "role": "ASM", "name": "Branch 01 ASM (Sample)", "phone": "9000000009" }
+      ]
+    },
+    "Branch 02": {
+      "agm_id": "AGM_01",
+      "contacts": [
+        { "role": "BM", "name": "Branch 02 BM (Sample)", "phone": "9000000010" },
+        { "role": "CRM", "name": "Branch 02 CRM (Sample)", "phone": "9000000011" },
+        { "role": "ASM", "name": "Branch 02 ASM (Sample)", "phone": "9000000012" }
+      ]
+    },
+    "Branch 03": {
+      "agm_id": "AGM_01",
+      "contacts": [
+        { "role": "BM", "name": "Branch 03 BM (Sample)", "phone": "9000000013" },
+        { "role": "CRM", "name": "Branch 03 CRM (Sample)", "phone": "9000000014" },
+        { "role": "ASM", "name": "Branch 03 ASM (Sample)", "phone": "9000000015" }
+      ]
+    },
+    "Branch 04": {
+      "agm_id": "AGM_01",
+      "contacts": [
+        { "role": "BM", "name": "Branch 04 BM (Sample)", "phone": "9000000016" },
+        { "role": "CRM", "name": "Branch 04 CRM (Sample)", "phone": "9000000017" },
+        { "role": "ASM", "name": "Branch 04 ASM (Sample)", "phone": "9000000018" }
+      ]
+    },
+    "Branch 05": {
+      "agm_id": "AGM_01",
+      "contacts": [
+        { "role": "BM", "name": "Branch 05 BM (Sample)", "phone": "9000000019" },
+        { "role": "CRM", "name": "Branch 05 CRM (Sample)", "phone": "9000000020" },
+        { "role": "ASM", "name": "Branch 05 ASM (Sample)", "phone": "9000000021" }
+      ]
+    },
+    "Branch 06": {
+      "agm_id": "AGM_01",
+      "contacts": [
+        { "role": "BM", "name": "Branch 06 BM (Sample)", "phone": "9000000022" },
+        { "role": "CRM", "name": "Branch 06 CRM (Sample)", "phone": "9000000023" },
+        { "role": "ASM", "name": "Branch 06 ASM (Sample)", "phone": "9000000024" }
+      ]
+    },
+    "Branch 07": {
+      "agm_id": "AGM_01",
+      "contacts": [
+        { "role": "BM", "name": "Branch 07 BM (Sample)", "phone": "9000000025" },
+        { "role": "CRM", "name": "Branch 07 CRM (Sample)", "phone": "9000000026" },
+        { "role": "ASM", "name": "Branch 07 ASM (Sample)", "phone": "9000000027" }
+      ]
+    },
+    "Branch 08": {
+      "agm_id": "AGM_01",
+      "contacts": [
+        { "role": "BM", "name": "Branch 08 BM (Sample)", "phone": "9000000028" },
+        { "role": "CRM", "name": "Branch 08 CRM (Sample)", "phone": "9000000029" },
+        { "role": "ASM", "name": "Branch 08 ASM (Sample)", "phone": "9000000030" }
+      ]
+    },
+    "Branch 09": {
+      "agm_id": "AGM_01",
+      "contacts": [
+        { "role": "BM", "name": "Branch 09 BM (Sample)", "phone": "9000000031" },
+        { "role": "CRM", "name": "Branch 09 CRM (Sample)", "phone": "9000000032" },
+        { "role": "ASM", "name": "Branch 09 ASM (Sample)", "phone": "9000000033" }
+      ]
+    },
+    "Branch 10": {
+      "agm_id": "AGM_02",
+      "contacts": [
+        { "role": "BM", "name": "Branch 10 BM (Sample)", "phone": "9000000034" },
+        { "role": "CRM", "name": "Branch 10 CRM (Sample)", "phone": "9000000035" },
+        { "role": "ASM", "name": "Branch 10 ASM (Sample)", "phone": "9000000036" }
+      ]
+    },
+    "Branch 11": {
+      "agm_id": "AGM_02",
+      "contacts": [
+        { "role": "BM", "name": "Branch 11 BM (Sample)", "phone": "9000000037" },
+        { "role": "CRM", "name": "Branch 11 CRM (Sample)", "phone": "9000000038" },
+        { "role": "ASM", "name": "Branch 11 ASM (Sample)", "phone": "9000000039" }
+      ]
+    },
+    "Branch 12": {
+      "agm_id": "AGM_02",
+      "contacts": [
+        { "role": "BM", "name": "Branch 12 BM (Sample)", "phone": "9000000040" },
+        { "role": "CRM", "name": "Branch 12 CRM (Sample)", "phone": "9000000041" },
+        { "role": "ASM", "name": "Branch 12 ASM (Sample)", "phone": "9000000042" }
+      ]
+    },
+    "Branch 13": {
+      "agm_id": "AGM_02",
+      "contacts": [
+        { "role": "BM", "name": "Branch 13 BM (Sample)", "phone": "9000000043" },
+        { "role": "CRM", "name": "Branch 13 CRM (Sample)", "phone": "9000000044" },
+        { "role": "ASM", "name": "Branch 13 ASM (Sample)", "phone": "9000000045" }
+      ]
+    },
+    "Branch 14": {
+      "agm_id": "AGM_03",
+      "contacts": [
+        { "role": "BM", "name": "Branch 14 BM (Sample)", "phone": "9000000046" },
+        { "role": "CRM", "name": "Branch 14 CRM (Sample)", "phone": "9000000047" },
+        { "role": "ASM", "name": "Branch 14 ASM (Sample)", "phone": "9000000048" }
+      ]
+    },
+    "Branch 15": {
+      "agm_id": "AGM_03",
+      "contacts": [
+        { "role": "BM", "name": "Branch 15 BM (Sample)", "phone": "9000000049" },
+        { "role": "CRM", "name": "Branch 15 CRM (Sample)", "phone": "9000000050" },
+        { "role": "ASM", "name": "Branch 15 ASM (Sample)", "phone": "9000000051" }
+      ]
+    },
+    "Branch 16": {
+      "agm_id": "AGM_03",
+      "contacts": [
+        { "role": "BM", "name": "Branch 16 BM (Sample)", "phone": "9000000052" },
+        { "role": "CRM", "name": "Branch 16 CRM (Sample)", "phone": "9000000053" },
+        { "role": "ASM", "name": "Branch 16 ASM (Sample)", "phone": "9000000054" }
+      ]
+    },
+    "Branch 17": {
+      "agm_id": "AGM_03",
+      "contacts": [
+        { "role": "BM", "name": "Branch 17 BM (Sample)", "phone": "9000000055" },
+        { "role": "CRM", "name": "Branch 17 CRM (Sample)", "phone": "9000000056" },
+        { "role": "ASM", "name": "Branch 17 ASM (Sample)", "phone": "9000000057" }
+      ]
+    },
+    "Branch 18": {
+      "agm_id": "AGM_03",
+      "contacts": [
+        { "role": "BM", "name": "Branch 18 BM (Sample)", "phone": "9000000058" },
+        { "role": "CRM", "name": "Branch 18 CRM (Sample)", "phone": "9000000059" },
+        { "role": "ASM", "name": "Branch 18 ASM (Sample)", "phone": "9000000060" }
+      ]
+    },
+    "Branch 19": {
+      "agm_id": "AGM_03",
+      "contacts": [
+        { "role": "BM", "name": "Branch 19 BM (Sample)", "phone": "9000000061" },
+        { "role": "CRM", "name": "Branch 19 CRM (Sample)", "phone": "9000000062" },
+        { "role": "ASM", "name": "Branch 19 ASM (Sample)", "phone": "9000000063" }
+      ]
+    },
+    "Branch 20": {
+      "agm_id": "AGM_04",
+      "contacts": [
+        { "role": "BM", "name": "Branch 20 BM (Sample)", "phone": "9000000064" },
+        { "role": "CRM", "name": "Branch 20 CRM (Sample)", "phone": "9000000065" },
+        { "role": "ASM", "name": "Branch 20 ASM (Sample)", "phone": "9000000066" }
+      ]
+    },
+    "Branch 21": {
+      "agm_id": "AGM_04",
+      "contacts": [
+        { "role": "BM", "name": "Branch 21 BM (Sample)", "phone": "9000000067" },
+        { "role": "CRM", "name": "Branch 21 CRM (Sample)", "phone": "9000000068" },
+        { "role": "ASM", "name": "Branch 21 ASM (Sample)", "phone": "9000000069" }
+      ]
+    },
+    "Branch 22": {
+      "agm_id": "AGM_04",
+      "contacts": [
+        { "role": "BM", "name": "Branch 22 BM (Sample)", "phone": "9000000070" },
+        { "role": "CRM", "name": "Branch 22 CRM (Sample)", "phone": "9000000071" },
+        { "role": "ASM", "name": "Branch 22 ASM (Sample)", "phone": "9000000072" }
+      ]
+    },
+    "Branch 23": {
+      "agm_id": "AGM_04",
+      "contacts": [
+        { "role": "BM", "name": "Branch 23 BM (Sample)", "phone": "9000000073" },
+        { "role": "CRM", "name": "Branch 23 CRM (Sample)", "phone": "9000000074" },
+        { "role": "ASM", "name": "Branch 23 ASM (Sample)", "phone": "9000000075" }
+      ]
+    },
+    "Branch 24": {
+      "agm_id": "AGM_04",
+      "contacts": [
+        { "role": "BM", "name": "Branch 24 BM (Sample)", "phone": "9000000076" },
+        { "role": "CRM", "name": "Branch 24 CRM (Sample)", "phone": "9000000077" },
+        { "role": "ASM", "name": "Branch 24 ASM (Sample)", "phone": "9000000078" }
+      ]
+    },
+    "Branch 25": {
+      "agm_id": "AGM_04",
+      "contacts": [
+        { "role": "BM", "name": "Branch 25 BM (Sample)", "phone": "9000000079" },
+        { "role": "CRM", "name": "Branch 25 CRM (Sample)", "phone": "9000000080" },
+        { "role": "ASM", "name": "Branch 25 ASM (Sample)", "phone": "9000000081" }
+      ]
+    },
+    "Branch 26": {
+      "agm_id": "AGM_05",
+      "contacts": [
+        { "role": "BM", "name": "Branch 26 BM (Sample)", "phone": "9000000082" },
+        { "role": "CRM", "name": "Branch 26 CRM (Sample)", "phone": "9000000083" },
+        { "role": "ASM", "name": "Branch 26 ASM (Sample)", "phone": "9000000084" }
+      ]
+    },
+    "Branch 27": {
+      "agm_id": "AGM_05",
+      "contacts": [
+        { "role": "BM", "name": "Branch 27 BM (Sample)", "phone": "9000000085" },
+        { "role": "CRM", "name": "Branch 27 CRM (Sample)", "phone": "9000000086" },
+        { "role": "ASM", "name": "Branch 27 ASM (Sample)", "phone": "9000000087" }
+      ]
+    },
+    "Branch 28": {
+      "agm_id": "AGM_05",
+      "contacts": [
+        { "role": "BM", "name": "Branch 28 BM (Sample)", "phone": "9000000088" },
+        { "role": "CRM", "name": "Branch 28 CRM (Sample)", "phone": "9000000089" },
+        { "role": "ASM", "name": "Branch 28 ASM (Sample)", "phone": "9000000090" }
+      ]
+    },
+    "Branch 29": {
+      "agm_id": "AGM_05",
+      "contacts": [
+        { "role": "BM", "name": "Branch 29 BM (Sample)", "phone": "9000000091" },
+        { "role": "CRM", "name": "Branch 29 CRM (Sample)", "phone": "9000000092" },
+        { "role": "ASM", "name": "Branch 29 ASM (Sample)", "phone": "9000000093" }
+      ]
+    },
+    "Branch 30": {
+      "agm_id": "AGM_05",
+      "contacts": [
+        { "role": "BM", "name": "Branch 30 BM (Sample)", "phone": "9000000094" },
+        { "role": "CRM", "name": "Branch 30 CRM (Sample)", "phone": "9000000095" },
+        { "role": "ASM", "name": "Branch 30 ASM (Sample)", "phone": "9000000096" }
+      ]
+    },
+    "Branch 31": {
+      "agm_id": "AGM_05",
+      "contacts": [
+        { "role": "BM", "name": "Branch 31 BM (Sample)", "phone": "9000000097" },
+        { "role": "CRM", "name": "Branch 31 CRM (Sample)", "phone": "9000000098" },
+        { "role": "ASM", "name": "Branch 31 ASM (Sample)", "phone": "9000000099" }
+      ]
+    },
+    "Branch 32": {
+      "agm_id": "AGM_05",
+      "contacts": [
+        { "role": "BM", "name": "Branch 32 BM (Sample)", "phone": "9000000100" },
+        { "role": "CRM", "name": "Branch 32 CRM (Sample)", "phone": "9000000101" },
+        { "role": "ASM", "name": "Branch 32 ASM (Sample)", "phone": "9000000102" }
+      ]
+    },
+    "Branch 33": {
+      "agm_id": "AGM_06",
+      "contacts": [
+        { "role": "BM", "name": "Branch 33 BM (Sample)", "phone": "9000000103" },
+        { "role": "CRM", "name": "Branch 33 CRM (Sample)", "phone": "9000000104" },
+        { "role": "ASM", "name": "Branch 33 ASM (Sample)", "phone": "9000000105" }
+      ]
+    },
+    "Branch 34": {
+      "agm_id": "AGM_06",
+      "contacts": [
+        { "role": "BM", "name": "Branch 34 BM (Sample)", "phone": "9000000106" },
+        { "role": "CRM", "name": "Branch 34 CRM (Sample)", "phone": "9000000107" },
+        { "role": "ASM", "name": "Branch 34 ASM (Sample)", "phone": "9000000108" }
+      ]
+    },
+    "Branch 35": {
+      "agm_id": "AGM_06",
+      "contacts": [
+        { "role": "BM", "name": "Branch 35 BM (Sample)", "phone": "9000000109" },
+        { "role": "CRM", "name": "Branch 35 CRM (Sample)", "phone": "9000000110" },
+        { "role": "ASM", "name": "Branch 35 ASM (Sample)", "phone": "9000000111" }
+      ]
+    },
+    "Branch 36": {
+      "agm_id": "AGM_06",
+      "contacts": [
+        { "role": "BM", "name": "Branch 36 BM (Sample)", "phone": "9000000112" },
+        { "role": "CRM", "name": "Branch 36 CRM (Sample)", "phone": "9000000113" },
+        { "role": "ASM", "name": "Branch 36 ASM (Sample)", "phone": "9000000114" }
+      ]
+    },
+    "Branch 37": {
+      "agm_id": "AGM_06",
+      "contacts": [
+        { "role": "BM", "name": "Branch 37 BM (Sample)", "phone": "9000000115" },
+        { "role": "CRM", "name": "Branch 37 CRM (Sample)", "phone": "9000000116" },
+        { "role": "ASM", "name": "Branch 37 ASM (Sample)", "phone": "9000000117" }
+      ]
+    }
+  }
+}
